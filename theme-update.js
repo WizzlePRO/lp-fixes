@@ -6,8 +6,6 @@
 // @author       You
 // @match        https://j2a4a.leadperfection.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=leadperfection.com
-// @updateURL    https://raw.githubusercontent.com/WizzlePRO/lp-fixes/main/theme-first.js
-// @downloadURL  https://raw.githubusercontent.com/WizzlePRO/lp-fixes/main/theme-update.js
 // @grant        GM_addStyle
 // ==/UserScript==
 
