@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LeadPerfection Theming Fixes
 // @namespace    http://leadperfection.com/
-// @version      0.27
+// @version      0.28
 // @description  Making LP great again!
 // @author       You
 // @match        https://j2a4a.leadperfection.com/*
@@ -19,5 +19,5 @@
     // more panel height in table panel site wide
     GM_addStyle('.table-scrollable{max-height:100% !important;}');
     // remove footer
-    GM_addStyle('.page-prefooter{display:none !important;}');
+    GM_addStyle('.page-prefooter,.page-footer{display:none !important;}');
 })();
