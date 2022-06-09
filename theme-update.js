@@ -18,4 +18,6 @@
     GM_addStyle('.colalignl:not(.editing):not(.viewall):not(.editActive){max-width:500px !important;}');
     // more panel height in table panel site wide
     GM_addStyle('.table-scrollable{max-height:100% !important;}');
+    // remove footer
+    GM_addStyle('.page-prefooter{display:none !important;}');
 })();
