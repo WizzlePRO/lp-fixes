@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LeadPerfection Theming Fixes
 // @namespace    http://leadperfection.com/
-// @version      0.24
+// @version      0.25
 // @description  Making LP great again!
 // @author       You
 // @match        https://j2a4a.leadperfection.com/*
@@ -16,4 +16,6 @@
     GM_addStyle('.colalignl:not(.editing){ white-space: pre-wrap !important; }');
     // more column wide in notes on global notes window
     GM_addStyle('.colalignl:not(.editing):not(.viewall):not(.editActive){max-width:500px !important;}');
+    // more panel height in table panel site wide
+    GM_addStyle('.table-scrollable{max-height:1200px !important;}');
 })();
