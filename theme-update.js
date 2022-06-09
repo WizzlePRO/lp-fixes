@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         LeadPerfection Themeing Fixes
+// @name         LeadPerfection Theming Fixes
 // @namespace    http://leadperfection.com/
 // @version      0.22
 // @description  Making LP great again!
