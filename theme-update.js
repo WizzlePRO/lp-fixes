@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LeadPerfection Theming Fixes
 // @namespace    http://leadperfection.com/
-// @version      0.22
+// @version      0.23
 // @description  Making LP great again!
 // @author       You
 // @match        https://j2a4a.leadperfection.com/*
@@ -12,6 +12,6 @@
 
 (function() {
     'use strict';
-    // fixes global notes issues test push
+    // fixes global notes issues test push #3
     GM_addStyle('.colalignl:not(.editing){ white-space: pre-wrap !important; }');
 })();
