@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LeadPerfection Theming Fixes
 // @namespace    http://leadperfection.com/
-// @version      0.23
+// @version      0.24
 // @description  Making LP great again!
 // @author       You
 // @match        https://j2a4a.leadperfection.com/*
@@ -14,4 +14,6 @@
     'use strict';
     // fixes global notes issues test push #3
     GM_addStyle('.colalignl:not(.editing){ white-space: pre-wrap !important; }');
+    // more column wide in notes on global notes window
+    GM_addStyle('.colalignl:not(.editing):not(.viewall):not(.editActive){max-width:500px !important;}');
 })();
