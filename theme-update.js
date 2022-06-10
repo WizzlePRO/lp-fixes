@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LeadPerfection Theming Fixes
 // @namespace    http://leadperfection.com/
-// @version      0.28
+// @version      0.29
 // @description  Making LP great again!
 // @author       You
 // @match        https://j2a4a.leadperfection.com/*
