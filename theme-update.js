@@ -20,4 +20,6 @@
     GM_addStyle('.table-scrollable{max-height:100% !important;}');
     // remove footer
     GM_addStyle('.page-prefooter,.page-footer{display:none !important;}');
+    // remove bg color new job address section
+    GM_addStyle('#divError{background:transparent !important;}');
 })();
