@@ -2,7 +2,7 @@
 // @name         LeadPerfection Theming Fixes
 // @namespace    http://leadperfection.com/
 // @version      0.30
-// @description  Making LP great again!
+// @description  LPUPDATE
 // @author       You
 // @match        https://j2a4a.leadperfection.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=leadperfection.com
