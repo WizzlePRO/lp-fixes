@@ -1,1 +1,7 @@
-
+.colalignl:not(.editing){ white-space: pre-wrap !important; }
+// more column wide in notes on global notes window
+.colalignl:not(.editing):not(.viewall):not(.editActive){max-width:600px !important;}
+// more panel height in table panel site wide
+.table-scrollable{max-height:100% !important;}
+// remove bg color new job address section
+#divError{background:transparent !important;}
